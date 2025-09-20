@@ -33,6 +33,7 @@ Based on the Indrocution Program of the course here are some key takeaways.
 	
 # Week 0 - Tools Installation
 ## Yosys
+Purpose : To translate your abstract Verilog code into a physical circuit.(Sysnthesize your verilog file to gate level circuit)
 ```
 $ git clone https://github.com/YosysHQ/yosys.git
 $ cd yosys 
@@ -47,12 +48,14 @@ $ sudo make install
 <img width="600" alt="yosys" src="https://github.com/mvbc-22/RISC-V_tapeout_program/blob/main/images/yosys.png">
 
 ## Iverilog
+Purpose : To check if your RTL (Register Transfer Level) code Verilog code works logically .
 ```
 $ sudo apt-get install iverilog
 ```
 <img width="600" alt="iverilog" src="https://github.com/mvbc-22/RISC-V_tapeout_program/blob/main/images/iverilog.png">
 
 ## GTKWave
+Purpose : To visualize and debug the simulation results.
 ```
 $ sudo apt update
 $ sudo apt install gtkwave
