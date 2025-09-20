@@ -8,6 +8,26 @@
 ![India](https://img.shields.io/badge/Made%20in-India-saffron?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjgiIGZpbGw9IiNGRjk5MzMiLz4KPHJlY3QgeT0iOCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjgiIGZpbGw9IiNGRkZGRkYiLz4KPHJlY3QgeT0iMTYiIHdpZHRoPSIyNCIgaGVpZ2h0PSI4IiBmaWxsPSIjMTM4ODA4Ii8+Cjwvc3ZnPgo=)
 
 </div>
+Based on the Indrocution Program of the course here are some key takeaways.
+
+### Chip Design Flow
+<div align="center">
+	
+| Flow |
+| :---: |
+| GCC application |
+| ⬇️ |
+| Specs model (chip modelling) |
+| ⬇️ |
+| RTL architect |
+| ⬇️ |
+| SoC design (Processor,Peripherals) |
+| ⬇️ |
+| SoC integration |
+| ⬇️ |
+| Tapeout(RTL2GDS-GDSII-DRC/LVS-factory-chips) |
+
+</div>
 <details>
 	<summary>Week 0 - Tools Installation </summary>
 	
