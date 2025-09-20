@@ -48,7 +48,7 @@ $ sudo make install
 <img width="600" alt="yosys" src="https://github.com/mvbc-22/RISC-V_tapeout_program/blob/main/images/yosys.png">
 
 ## Iverilog
-Purpose : To check if your RTL (Register Transfer Level) code Verilog code works logically .
+Purpose : To check if your RTL (Register Transfer Level) code / Verilog code works logically .
 ```
 $ sudo apt-get install iverilog
 ```
