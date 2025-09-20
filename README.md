@@ -44,20 +44,19 @@ $ sudo apt-get install build-essential clang bison flex \
 $ make 
 $ sudo make install
 ```
-<img width="575" alt="yosys" src="https://github.com/mvbc-22/RISC-V_tapeout_program/blob/main/images/yosys.png">
+<img width="600" alt="yosys" src="https://github.com/mvbc-22/RISC-V_tapeout_program/blob/main/images/yosys.png">
 
 ## Iverilog
 ```
 $ sudo apt-get install iverilog
 ```
-<img width="702" alt="iverilog" src="https://github.com/sukanyasmeher/sfal-vsd/assets/166566124/e660c9fc-0d6d-4ab7-b75f-9992133771ef">
+<img width="600" alt="iverilog" src="https://github.com/mvbc-22/RISC-V_tapeout_program/blob/main/images/iverilog.png">
 
 ## GTKWave
 ```
 $ sudo apt update
 $ sudo apt install gtkwave
 ```
-<img width="604" alt="gtkwave2" src="https://github.com/sukanyasmeher/sfal-vsd/assets/166566124/843a73bc-20ec-4417-bdc8-883caa6a299b">
 
-<img width="1008" alt="gtkwave1" src="https://github.com/sukanyasmeher/sfal-vsd/assets/166566124/1e0c0704-f9a8-4ce4-b364-55a1fb0fc9ca">
+<img width="1000" alt="gtkwave" src="https://github.com/mvbc-22/RISC-V_tapeout_program/blob/main/images/gtkwave.png">
 
